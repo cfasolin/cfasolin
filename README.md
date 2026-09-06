@@ -1,10 +1,10 @@
-# Bonjour ! 
+# Développement Web & Environnement
 
-Si vous êtes sur cette page, j'imagine que vous souhaitez en savoir plus sur moi ou découvrir mes différents projets ! 
+Bonjour ! Si vous êtes sur cette page, j'imagine que vous souhaitez en savoir plus sur moi ou découvrir mes différents projets ! Voici une petite présentation :) 
 
 Ex-jardinère-botaniste en reconversion vers le développement web. 
 
-Objectif : mettre le code au service de la nature: biodiversité, environnement, sciences participatives.
+Objectif : croiser mes connaissances scientifiques et naturalistes avec le dev pour construire des outils utiles aux associations, aux naturalistes, à la protection de l'environnement...
 
 ## 🌱 Mon parcours
 
@@ -15,7 +15,6 @@ Objectif : mettre le code au service de la nature: biodiversité, environnement,
 - Aujourd'hui en formation **DWWM** (Développeur Web et Web Mobile) à l'ENI École Informatique
 - En stage chez **FNE (France Nature Environnement)** : refonte complète du site *Opération Hérisson*, un outil de sciences participatives pour recenser les hérissons
 
-Ce qui m'intéresse : croiser mes connaissances scientifiques et naturalistes avec le dev pour construire des outils utiles aux associations, aux naturalistes, à la protection de l'environnement...
 
 ## 🛠️ Stack technique
 
@@ -32,17 +31,25 @@ Ce qui m'intéresse : croiser mes connaissances scientifiques et naturalistes av
 
 ## 📌 Projets
 
-### 🐦 [radar-ornitho](https://github.com/cfasolin/radar-ornitho)
-Application React Native qui identifie les espèces d'oiseaux probables à partir de coordonnées GPS, à l'aide des données satellite ESA WorldCover.
-
 ### 🦔 Opération Hérisson (stage FNE)
 Refonte technique et graphique d'un site de sciences participatives (recensement de hérissons), stack Node.js / React / Express / MongoDB. Mise en conformité RGPD, nouveau backoffice, harmonisation avec la charte FNE nationale.
+
+### 🐦 [radar-ornitho](https://github.com/cfasolin/radar-ornitho)
+Application React Native qui identifie les espèces d'oiseaux probables à partir de coordonnées GPS, à l'aide des données satellite ESA WorldCover.
 
 ### [Sortir.com](https://github.com/RemiPIERRE/Sortir)
 
 Sortir — Gestion de sorties entre étudiants
 
 Application Symfony développée en équipe : organisation et inscription à des sorties entre campus, API REST sécurisée par JWT, gestion du profil.
+
+### [Viola Elegans](https://github.com/cfasolin/viola-elegans)
+
+Site vitrine WordPress présentant des activités proposées par une jardinière-botaniste
+
+### [Trombinoscope](https://github.com/cfasolin/trombinoscope_ENI)
+
+Projet Web présentant tous les apprenants de la promotion
 
 ## 📫 Me contacter
 
