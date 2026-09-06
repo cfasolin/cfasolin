@@ -34,12 +34,10 @@ Objectif : croiser mes connaissances scientifiques et naturalistes avec le dev p
 ### 🦔 Opération Hérisson (stage FNE)
 Refonte technique et graphique d'un site de sciences participatives (recensement de hérissons), stack Node.js / React / Express / MongoDB. Mise en conformité RGPD, nouveau backoffice, harmonisation avec la charte FNE nationale.
 
-### 🐦 [radar-ornitho](https://github.com/cfasolin/radar-ornitho)
+### [radar-ornitho](https://github.com/cfasolin/radar-ornitho)
 Application React Native qui identifie les espèces d'oiseaux probables à partir de coordonnées GPS, à l'aide des données satellite ESA WorldCover.
 
 ### [Sortir.com](https://github.com/RemiPIERRE/Sortir)
-
-Sortir — Gestion de sorties entre étudiants
 
 Application Symfony développée en équipe : organisation et inscription à des sorties entre campus, API REST sécurisée par JWT, gestion du profil.
 
