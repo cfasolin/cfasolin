@@ -3,6 +3,7 @@
 Si vous êtes sur cette page, j'imagine que vous souhaitez en savoir plus sur moi ou découvrir mes différents projets ! 
 
 Ex-jardinère-botaniste en reconversion vers le développement web. 
+
 Objectif : mettre le code au service de la nature: biodiversité, environnement, sciences participatives.
 
 ## 🌱 Mon parcours
@@ -32,10 +33,16 @@ Ce qui m'intéresse : croiser mes connaissances scientifiques et naturalistes av
 ## 📌 Projets
 
 ### 🐦 [radar-ornitho](https://github.com/cfasolin/radar-ornitho)
-Application React Native qui identifie les espèces d'oiseaux probables à partir de coordonnées GPS, à l'aide des données satellite ESA WorldCover. Mon projet perso le plus abouti.
+Application React Native qui identifie les espèces d'oiseaux probables à partir de coordonnées GPS, à l'aide des données satellite ESA WorldCover.
 
 ### 🦔 Opération Hérisson (stage FNE)
 Refonte technique et graphique d'un site de sciences participatives (recensement de hérissons), stack Node.js / React / Express / MongoDB. Mise en conformité RGPD, nouveau backoffice, harmonisation avec la charte FNE nationale.
+
+### [Sortir.com](https://github.com/RemiPIERRE/Sortir)
+
+Sortir — Gestion de sorties entre étudiants
+
+Application Symfony développée en équipe : organisation et inscription à des sorties entre campus, API REST sécurisée par JWT, gestion du profil.
 
 ## 📫 Me contacter
 
