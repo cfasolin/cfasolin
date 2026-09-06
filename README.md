@@ -13,7 +13,7 @@ Objectif : croiser mes connaissances scientifiques et naturalistes avec le dev p
 - Bac professionnel "Productions Horticoles" 
 - Jardinière-botaniste
 - Aujourd'hui en formation **DWWM** (Développeur Web et Web Mobile) à l'ENI École Informatique
-- En stage chez **FNE (France Nature Environnement)** : refonte complète du site *Opération Hérisson*, un outil destiné au grand public pour entrer ses observations de hérissons
+- En stage chez **FNE (France Nature Environnement)** : refonte complète du site *Opération Hérisson*, un outil qui recense les observations de hérisson soumises par les utilisateurs
 
 
 ## 🛠️ Stack technique
