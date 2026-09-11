@@ -4,7 +4,7 @@ Bonjour ! Si vous êtes sur cette page, j'imagine que vous souhaitez en savoir p
 
 Ex-jardinère-botaniste en reconversion vers le développement web. 
 
-Objectif : croiser mes connaissances scientifiques et naturalistes avec le dev pour construire des outils utiles aux associations, aux naturalistes, à la protection de l'environnement...
+Objectif : croiser mes connaissances scientifiques et naturalistes avec le dev pour construire des outils utiles à la science, aux associations, aux naturalistes, à la protection de l'environnement...
 
 ## 🌱 Mon parcours
 
